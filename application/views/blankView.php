@@ -13,9 +13,9 @@ gsdhdsghsdfh
 sdfhdfshfsdhsfdh
 sdfhsfdhdfs<?php
 dsfgsfdgf?>
+sadfsadfsdafsaddsa
 
-
-  <?php $this->load->view('includes/footer') ?>
+  <?php $this->load->view('includes/footer') ?>asdf
 </body>
 
 
