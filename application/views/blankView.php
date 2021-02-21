@@ -9,6 +9,10 @@
   <?php $this->load->view('includes/sidebar') ?>
 
 naber erdoo
+gsdhdsghsdfh
+sdfhdfshfsdhsfdh
+sdfhsfdhdfs<?php
+dsfgsfdgf?>
 
 asdasdasdasdas
   <?php $this->load->view('includes/footer') ?>
