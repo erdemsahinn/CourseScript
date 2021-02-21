@@ -13,10 +13,16 @@ gsdhdsghsdfh
 sdfhdfshfsdhsfdh
 sdfhsfdhdfs<?php
 dsfgsfdgf?>
+<<<<<<< HEAD
 sadfsadfsdafsaddsa
 
   <?php $this->load->view('includes/footer') ?>asdf
+=======
+asdfdsafsadsad
+asdasdasdasdas
+  <?php $this->load->view('includes/footer') ?>
+>>>>>>> master
 </body>
-
+asdsadasd
 
 </html>
