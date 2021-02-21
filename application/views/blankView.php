@@ -10,9 +10,9 @@
 
 naber erdoo
 
-
+asdasdasdasdas
   <?php $this->load->view('includes/footer') ?>
 </body>
-
+asdsadasd
 
 </html>
